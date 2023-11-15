@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"name": "A1",
+		"floor": 1,
+		"status": "available",
+		"date": null,
+		"duration": 0
+	},
+	{
+		"id": 2,
+		"name": "A2",
+		"floor": 1,
+		"status": "available",
+		"date": null,
+		"duration": 0
+	},
+	{
+		"id": 3,
+		"name": "A3",
+		"floor": 1,
+		"status": "available",
+		"date": null,
+		"duration": 0
+	},
+	{
+		"id": 4,
+		"name": "B1",
+		"floor": 2,
+		"status": "available",
+		"date": null,
+		"duration": 0
+	},
+	{
+		"id": 5,
+		"name": "B2",
+		"floor": 2,
+		"status": "available",
+		"date": null,
+		"duration": 0
+	},
+	{
+		"id": 6,
+		"name": "B3",
+		"floor": 2,
+		"status": "booked",
+		"date": "2023-08-10",
+		"duration": 2
+	}
+]
+
